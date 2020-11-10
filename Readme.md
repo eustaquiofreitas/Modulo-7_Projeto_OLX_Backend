@@ -1,10 +1,7 @@
 Módulo 7: Projeto OLX (Backend)
 
-
-
 Bibliotecas utilizadas:
-
-
+Libraries used:
     bcrypt:5.0.0,
     cors: 2.8.5,
     dotenv: 8.2.0,
@@ -14,15 +11,11 @@ Bibliotecas utilizadas:
     jimp: 0.16.1,
     mongoose: 5.10.12,
     uuid: 8.3.1
-
-
-
-Para instalar as bibliotecas :
-
-
+    
+Instalar bibliotecas:
+Install libraries:
     npm install
 
-Para rodar o server:
-
-
+Iniciar o servidor:
+Start the server:
     npm run startdev
