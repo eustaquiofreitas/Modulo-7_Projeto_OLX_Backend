@@ -1,6 +1,6 @@
 Módulo 7: Projeto OLX (Backend)
 
-Bibliotecas utilizadas:
+Bibliotecas utilizadas/
 Libraries used:
 
     bcrypt:5.0.0,
@@ -13,12 +13,12 @@ Libraries used:
     mongoose: 5.10.12,
     uuid: 8.3.1
     
-Instalar bibliotecas:
+Instalar bibliotecas/
 Install libraries:
 
     npm install
 
-Iniciar o servidor:
+Iniciar o servidor/
 Start the server:
 
     npm run startdev
